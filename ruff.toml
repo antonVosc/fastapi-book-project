@@ -1,2 +1,2 @@
-[lint]
+[tool.ruff.lint]
 ignore = ["UP007"]
